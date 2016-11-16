@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+html, body {
+	background: #eee;
+}
+
+#app img {
+	width: 100%;
+}
+
+ul {
+	list-style: none;
+}
